@@ -60,7 +60,7 @@ function NewMeetupForm(props) {
           
         </div>
       </form>
-      <button onClick={add}>Geet Meetup</button>
+      <button onClick={add}>Get Meetup</button>
     </Card>
   );
 }
